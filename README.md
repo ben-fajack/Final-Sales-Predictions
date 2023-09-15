@@ -1,5 +1,5 @@
 # Product Sales Predictive Analysis
-## Location Type Largest Determining Factor
+## Item MRP is the most predictive feature followed by location types
 ### Author: Ben Fajack
 
 This analysis is designed to inform the stakeholders on how to optimize future locations infratructure and product procurement and placement.
@@ -12,10 +12,12 @@ The largest predictive factor according to the analysis was Item MRP followed by
 <img width="340" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/19a95af3-96c3-46a2-ac74-30d77f19e7fe">
 
 
-<img width="301" alt="image" src="https://github.com/ben-fajack/Project_w_Metrics/assets/134533964/32f06918-a500-445e-90df-a73cae443d43">
-As can be seen here there is a low possibility of correlation between any one Item Type and furutre overall sales at a location
+<img width="315" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/81f7f3e8-7c10-4e01-8f5d-89d04e0926f1">
 
-<img width="320" alt="image" src="https://github.com/ben-fajack/Project_w_Metrics/assets/134533964/e4a484e6-8cee-4eb4-887e-f50ef02fdb16">
+As can be seen here there is a low possibility of correlation between any one Item Type and future overall sales at a location
+
+<img width="321" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/4b3418fa-9b97-4df8-8e97-6a527c1d5dde">
+
 Here, it easy to see that Supermarket Type 3 is performing considerably better in overall sales.
 
 
