@@ -9,6 +9,10 @@ The database was cleaned and explored using various EDA functions. Correlations 
 ### Results
 The largest predictive factor according to the analysis was Item MRP followed by Outlet Types. 
 
+Linear Regression determined, howevere, that Outlet Type was the most predictive feature, ahead of MRP
+<img width="332" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/edb02b31-6b0f-4945-939d-264c6878a8df">
+
+
 <img width="340" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/19a95af3-96c3-46a2-ac74-30d77f19e7fe">
 
 
