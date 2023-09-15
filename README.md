@@ -7,7 +7,10 @@ This analysis is designed to inform the stakeholders on how to optimize future l
 The database was cleaned and explored using various EDA functions. Correlations between various product and location features were examined as were predictive algorithms when trying to determine future sales at individual locations.
 
 ### Results
-The largest predictive factor according to the analysis was the type of location. Certain designs, sizes of locations produced the most consistent correlations with the target.
+The largest predictive factor according to the analysis was Item MRP followed by Outlet Types. 
+
+<img width="340" alt="image" src="https://github.com/ben-fajack/Final-Sales-Predictions/assets/134533964/19a95af3-96c3-46a2-ac74-30d77f19e7fe">
+
 
 <img width="301" alt="image" src="https://github.com/ben-fajack/Project_w_Metrics/assets/134533964/32f06918-a500-445e-90df-a73cae443d43">
 As can be seen here there is a low possibility of correlation between any one Item Type and furutre overall sales at a location
